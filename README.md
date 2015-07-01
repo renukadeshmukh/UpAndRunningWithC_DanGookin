@@ -7,14 +7,14 @@ Dan Gookin covers flow control, variables, and other "getting started" topics, b
 pointers and memory allocation. 
 
 Topics include:
-Understanding a C program
-Adding comments
-Using escape characters
-Working with values and placeholders
-Introducing variables
-Making a decision with if
-Looping
-Adding functions
-Manipulating strings
-Building arrays
+Understanding a C program, 
+Adding comments, 
+Using escape characters, 
+Working with values and placeholders, 
+Introducing variables, 
+Making a decision with if, 
+Looping, 
+Adding functions, 
+Manipulating strings, 
+Building arrays, 
 Nesting structures
